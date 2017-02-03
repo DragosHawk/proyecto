@@ -1,0 +1,11 @@
+Empresa organizadora de actividades deportivas.
+
+Organizadas en grado de riesgo por colores VERDE-AMARILLO-ROJO5
+
+VERDE - Senderismo, Caballo
+VERDEAMARILLO - Submarinismo, Kitesurf
+AMARILLO - Ski, Rafting.
+AMARILLOROJO - Quads,  Snow
+ROJO - Paracaidismo, Escalada.
+
+EJEMPLO http://conversionlab.no/
